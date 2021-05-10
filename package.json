@@ -4,5 +4,8 @@
   "description": "a simple udemy desktop application",
   "main": "main.js",
   "author": "AlbaySIMSEK",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^12.0.7"
+  }
 }
