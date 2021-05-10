@@ -1,0 +1,8 @@
+{
+  "name": "UdemyDesktop",
+  "version": "1.0.0",
+  "description": "a simple udemy desktop application",
+  "main": "main.js",
+  "author": "AlbaySIMSEK",
+  "license": "MIT"
+}
