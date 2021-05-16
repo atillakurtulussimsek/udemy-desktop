@@ -1,11 +1,19 @@
 {
-  "name": "UdemyDesktop",
+  "name": "udemy-desktop",
   "version": "1.0.0",
-  "description": "a simple udemy desktop application",
+  "description": "a simple udemy desktop envoirment",
   "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atillakurtulussimsek/udemy-desktop.git"
+  },
   "author": "AlbaySIMSEK",
-  "license": "MIT",
-  "dependencies": {
-    "electron": "^12.0.7"
-  }
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atillakurtulussimsek/udemy-desktop/issues"
+  },
+  "homepage": "https://github.com/atillakurtulussimsek/udemy-desktop#readme"
 }
